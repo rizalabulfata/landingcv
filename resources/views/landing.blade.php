@@ -26,7 +26,7 @@
     <header class="floating-header">
         <nav class="navbar navbar-expand-lg navbar-light bg-white">
             <div class="container-fluid px-4">
-                <a class="navbar-brand" href="#">HRPro</a>
+                <a class="navbar-brand" href="#">HIRIZAL Pro CV</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -325,7 +325,7 @@
                 <div class="col-md-4">
                     <h5>Our Location</h5>
                     <address>
-                        <strong>HRPro</strong><br>
+                        <strong>HIRIZAL Pro CV</strong><br>
                         Jl, Kalimas 13 Dusun Gutoguh Poreh, Kec. Lenteng Kab. Sumenep<br>
                         Jawa Timur, 69461
                     </address>
@@ -347,7 +347,7 @@
 
             <!-- Copyright Section -->
             <div class="text-center mt-4">
-                <p>&copy; 2025 HRPro. Semua Hak Dilindungi.</p>
+                <p>&copy; 2025 HIRIZAL Pro CV. Semua Hak Dilindungi.</p>
             </div>
         </div>
     </footer>
