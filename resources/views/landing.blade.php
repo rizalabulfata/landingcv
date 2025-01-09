@@ -311,30 +311,32 @@
         <div class="container">
             <div class="row">
                 <!-- Logo and Contact Information -->
-                <div class="col-md-4 text-center text-md-start">
+                <div class="col-md-3">
                     <img src="{{ asset('resources/image/logo.png') }}" alt="CVPro Logo"
                         style="max-width: 150px; margin-bottom: 15px;">
+                </div>
+                <div class="col-md-3 text-center text-md-start">
                     <h5>Contact Us</h5>
                     <ul class="list-unstyled">
-                        <li><strong>Phone:</strong> +1 234 567 890</li>
-                        <li><strong>Email:</strong> contact@cvpro.com</li>
-                        <li><strong>WhatsApp:</strong> <a href="https://wa.me/1234567890" class="text-light"
-                                target="_blank">+1 234 567 890</a></li>
+                        <li><strong>Phone:</strong> +62 823 0114 8188</li>
+                        <li><strong>Email:</strong> rizalabulfata@gmail.com</li>
+                        <li><strong>WhatsApp:</strong> <a href="https://wa.me/6282301148188" class="text-light"
+                                target="_blank">+62 823 0114 8188</a></li>
                     </ul>
                 </div>
 
                 <!-- Address Section -->
-                <div class="col-md-4 text-center text-md-start">
+                <div class="col-md-3 text-center text-md-start">
                     <h5>Our Location</h5>
                     <address>
-                        <strong>CVPro</strong><br>
-                        1234 Main St, Suite 100<br>
-                        City, Country, 12345
+                        <strong>HIRIZAL Pro CV</strong><br>
+                        Jl, Kalimas 13 Dusun Gutoguh Poreh, Kec. Lenteng Kab. Sumenep<br>
+                        Jawa Timur, 69461
                     </address>
                 </div>
 
                 <!-- Social Media Links -->
-                <div class="col-md-4 text-center text-md-start">
+                <div class="col-md-3 text-center text-md-start">
                     <h5>Follow Us</h5>
                     <div>
                         <a href="https://facebook.com" class="text-light me-3" target="_blank"><i
