@@ -26,7 +26,7 @@
     <header class="floating-header">
         <nav class="navbar navbar-expand-lg navbar-light bg-white">
             <div class="container-fluid px-4">
-                <a class="navbar-brand" href="#">CVPro</a>
+                <a class="navbar-brand" href="#">HRPro</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -308,10 +308,53 @@
 
     <!-- Footer -->
     <footer class="bg-dark text-light py-4">
-        <div class="container text-center">
-            <p>&copy; 2025 CVPro. Semua Hak Dilindungi.</p>
+        <div class="container">
+            <div class="row">
+                <!-- Contact Information -->
+                <div class="col-md-4">
+                    <h5>Contact Us</h5>
+                    <ul class="list-unstyled">
+                        <li><strong>Phone:</strong> +62 823 0114 8188</li>
+                        <li><strong>Email:</strong> rizalabulfata@gmail.com</li>
+                        <li><strong>WhatsApp:</strong> <a href="https://wa.me/6282301148188" class="text-light"
+                                target="_blank">+62 823 0114 8188</a></li>
+                    </ul>
+                </div>
+
+                <!-- Address Section -->
+                <div class="col-md-4">
+                    <h5>Our Location</h5>
+                    <address>
+                        <strong>HRPro</strong><br>
+                        Jl, Kalimas 13 Dusun Gutoguh Poreh, Kec. Lenteng Kab. Sumenep<br>
+                        Jawa Timur, 69461
+                    </address>
+                </div>
+
+                <!-- Social Media Links -->
+                <div class="col-md-4">
+                    <h5>Follow Us</h5>
+                    <div>
+                        <a href="https://facebook.com" class="text-light me-3" target="_blank"><i
+                                class="fab fa-facebook fa-2x"></i></a>
+                        <a href="https://twitter.com" class="text-light me-3" target="_blank"><i
+                                class="fab fa-twitter fa-2x"></i></a>
+                        <a href="https://instagram.com" class="text-light" target="_blank"><i
+                                class="fab fa-instagram fa-2x"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Copyright Section -->
+            <div class="text-center mt-4">
+                <p>&copy; 2025 HRPro. Semua Hak Dilindungi.</p>
+            </div>
         </div>
     </footer>
+
+    <!-- Font Awesome Icons -->
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
