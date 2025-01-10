@@ -351,7 +351,7 @@
 
             <!-- Copyright Section -->
             <div class="text-center mt-4">
-                <p>&copy; 2025 CVPro. Semua Hak Dilindungi.</p>
+                <p>&copy; 2025 HRP CV. Semua Hak Dilindungi.</p>
             </div>
         </div>
     </footer>
